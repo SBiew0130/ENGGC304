@@ -1,2 +1,2 @@
-# ENGGC304-ComputerProgrammin
+# ENGGC304-ComputerProgramming
 ไดร์ฟส่งงาน
