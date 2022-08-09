@@ -1,5 +1,5 @@
 # ENGGC304-ComputerProgramming
-#ไดร์ฟส่งงาน
+#ไดร์ฟส่งใบงาน
 - https://drive.google.com/drive/folders/1AqRFjpogz896YnoAaRl1dyfHQV5CNh-F?usp=sharing
 
 #โฟลว์ชาร์ตสเต๊ก
